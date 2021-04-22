@@ -1,0 +1,500 @@
+@charset "utf-8";
+
+
+.mainprojBtn
+{
+	display: inline;
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+	margin-left: 1%;
+	
+	
+	
+}
+.mainBtn {
+	display: block;
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+	margin-top: 40px;
+}
+
+.bainBtn_scale
+{
+	width: 20%;
+}
+
+
+.youCanIMG
+{
+	margin-top: 30px;
+	display: inline;
+	width: 375px;
+	float: left;
+	
+}
+
+.tagline
+{
+	display: inline;
+	float: left;
+	text-align: left;
+	width: 40%;
+	margin-top: 15px;
+	margin-left: 20px;
+	font-size: 17px;
+	
+}
+.Challenge {
+	display: block;
+	clear: both;
+}
+.ChallengeText
+{
+	text-align: center;
+	margin-top: 25px;
+	font-size: 35px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	color: #1A1A1A;
+	
+}
+
+/* Настройка стилей параллаксов и кнопок на них */
+
+.paralaks_1
+{
+	position: absolute;
+	z-index: 3;
+	left: 0;
+	right: 0;
+	transform-origin: center;
+	height: 650px;
+	overflow-x: hidden;
+	overflow-y: auto;
+	background-image: url(../image/J4928x3280-03314-1-1024x682.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: 0% 2%;
+}
+.paralaks_btn_1
+{
+	margin-top: 271px;
+	margin-left: 70%;
+	width: 20%;
+	height: 110px;
+	background-color: #000000;
+	font-size: 40px;
+	border-width: 0px;
+	color: #FFFFFF;
+	opacity: 0.75;
+
+
+
+	
+}
+
+.paralaks_2
+{
+	position: absolute;
+	z-index: 3;
+	left: 0;
+	right: 0;
+	transform-origin: center;
+	height: 650px;
+	overflow-x: hidden;
+	overflow-y: auto;
+	background-image: url(../image/DSC_2950.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: 0% 50%;
+	margin-top: 30px;
+}
+.paralaks_btn_2
+{
+	margin-top: 271px;
+	margin-left: 10%;
+	width: 20%;
+	height: 110px;
+	background-color: #000000;
+	font-size: 40px;
+	border-width: 0px;
+	color: #FFFFFF;
+	opacity: 0.75;
+}
+
+.paralaks_3
+{
+	position: absolute;
+	z-index: 3;
+	left: 0;
+	right: 0;
+	transform-origin: center;
+	height: 650px;
+	overflow-x: hidden;
+	overflow-y: auto;
+	background-image: url(../image/DSC_5142.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: 0% 50%;
+	margin-top: 30px;
+}
+.paralaks_btn_3
+{
+	margin-top: 271px;
+	margin-left: 10%;
+	width: 20%;
+	height: 110px;
+	background-color: #000000;
+	font-size: 40px;
+	border-width: 0px;
+	color: #FFFFFF;
+	opacity: 0.75;
+}
+
+.paralaks_4
+{
+	position: absolute;
+	z-index: 3;
+	left: 0;
+	right: 0;
+	transform-origin: center;
+	height: 650px;
+	overflow-x: hidden;
+	overflow-y: auto;
+	background-image: url(../image/DSC_8171.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: 0% 50%;
+	margin-top: 30px;
+}
+.paralaks_btn_4
+{
+	margin-top: 271px;
+	margin-left: 70%;
+	width: 20%;
+	height: 110px;
+	background-color: #000000;
+	font-size: 40px;
+	border-width: 0px;
+	color: #FFFFFF;
+	opacity: 0.75;
+}
+
+/*Отдельно стили для параллакса с очками*/
+
+
+.weAreInNumbers
+{
+	clear: left;
+	margin-top: 700px;
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+	display: block;
+	
+}
+.weAreInNumbers_row
+{
+	display: block;
+	
+}
+.weAreInNumbers_Column
+{
+	display: inline-block;
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+	margin-left: 6%;
+	margin-top: 0px;
+	
+}
+.weAreInNumbers_Text
+{
+	font-size: 30px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	
+}
+.our_principles_Column
+{
+	display: inline-block;
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+	margin-top: 0px;
+	width: 20%;
+	margin-left: 2%;
+}
+.our_principles_title
+{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	text-align: center;
+	font-size: 30px;
+	
+}
+.our_principles_text
+{
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-size: 20px;
+	text-align: left;
+	float: left;
+	letter-spacing: -1px;
+	
+}
+.motto
+{
+	margin-left: 12%;
+	width: 75%;
+	
+}
+.features
+{
+	align-content: center;	
+}
+
+
+.map_scale
+{
+	display: block;
+	height: auto;
+	width: 1000px;
+}
+
+
+
+@media (max-width: 1300px){
+	
+
+	
+	.weAreInNumbers
+{
+	clear: left;
+	margin-top: 700px;
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+	display: block;
+	
+}
+	.weAreInNumbers_row
+{
+	display: block;
+	
+}
+	.weAreInNumbers_Column
+{
+	display: inline-block;
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+	margin-left: 15%;
+	margin-top: 0px;
+	
+}
+	.weAreInNumbers_Text
+{
+	font-size: 30px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	
+}
+	
+	
+	
+
+.paralaks_1
+{
+	position: absolute;
+	z-index: 3;
+	left: 0;
+	right: 0;
+	transform-origin: center;
+	height: 650px;
+	overflow-x: hidden;
+	overflow-y: auto;
+	background-image: url(../image/J4928x3280-03314-1-1024x682.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: 0% 2%;
+}
+.paralaks_btn_1
+{
+	margin-top: 271px;
+	margin-left: 70%;
+	width: 20%;
+	height: 110px;
+	background-color: #000000;
+	font-size: 30px;
+	border-width: 0px;
+	color: #FFFFFF;
+	opacity: 0.75;
+
+
+
+	
+}
+
+.paralaks_2
+{
+	position: absolute;
+	z-index: 3;
+	left: 0;
+	right: 0;
+	transform-origin: center;
+	height: 650px;
+	overflow-x: hidden;
+	overflow-y: auto;
+	background-image: url(../image/DSC_2950.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: 0% 50%;
+	margin-top: 30px;
+}
+.paralaks_btn_2
+{
+	margin-top: 271px;
+	margin-left: 10%;
+	width: 20%;
+	height: 110px;
+	background-color: #000000;
+	font-size: 30px;
+	border-width: 0px;
+	color: #FFFFFF;
+	opacity: 0.75;
+}
+
+.paralaks_3
+{
+	position: absolute;
+	z-index: 3;
+	left: 0;
+	right: 0;
+	transform-origin: center;
+	height: 650px;
+	overflow-x: hidden;
+	overflow-y: auto;
+	background-image: url(../image/DSC_5142.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: 0% 50%;
+	margin-top: 30px;
+}
+.paralaks_btn_3
+{
+	margin-top: 271px;
+	margin-left: 10%;
+	width: 20%;
+	height: 110px;
+	background-color: #000000;
+	font-size: 30px;
+	border-width: 0px;
+	color: #FFFFFF;
+	opacity: 0.75;
+}
+
+.paralaks_4
+{
+	position: absolute;
+	z-index: 3;
+	left: 0;
+	right: 0;
+	transform-origin: center;
+	height: 650px;
+	overflow-x: hidden;
+	overflow-y: auto;
+	background-image: url(../image/DSC_8171.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: 0% 50%;
+	margin-top: 30px;
+}
+.paralaks_btn_4
+{
+	margin-top: 271px;
+	margin-left: 70%;
+	width: 20%;
+	height: 110px;
+	background-color: #000000;
+	font-size: 30px;
+	border-width: 0px;
+	color: #FFFFFF;
+	opacity: 0.75;
+}
+
+/*Отдельно стили для параллакса с очками*/
+
+.paralaks_down
+{
+	position: absolute;
+	z-index: 3;
+	left: 0;
+	right: 0;
+	transform-origin: center;
+	height: 400px;
+	overflow-x: hidden;
+	overflow-y: auto;
+	background-image: url(../image/IMG_3184-3.jpg);
+	background-attachment: fixed;
+	background-position: 50% 50%;
+	margin-top: 30px;
+	background-size: auto 800px;
+}
+
+
+
+
+	
+	
+.motto
+{
+	
+	width: 95%;
+	
+}
+
+	
+.map_scale
+{
+	display: block;
+	height: auto;
+	width: 1000px;
+}
+	
+	
+	
+	
+	
+}
+
+@media (max-width: 1170px){
+.map_scale
+{
+	display: block;
+	height: auto;
+	width: 1000px;
+	}	
+	
+
+	
+	.motto
+{
+	
+	width: 95%;
+	
+}
+	
+	
+}
+@media (max-width: 750px){
+	
+
+	
+	
+	
+
+	
+}
+
+
+
+@media (max-width: 500px){
+}

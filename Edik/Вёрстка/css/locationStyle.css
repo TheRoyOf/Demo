@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+
+.acomSlider
+{
+	display: inline-block;
+	margin-left: -8%;
+	margin-right: 10px;
+	width: 45%;
+	margin-top: 0px;
+	
+}
+
+.map_style
+{
+	display: inline-block;
+	width: 300px;
+	
+}

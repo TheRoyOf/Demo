@@ -1,0 +1,44 @@
+@charset "utf-8";
+.program_list {
+	margin-left: 15%;
+	width: 70%;
+}
+.program {
+
+}
+.program_info {
+	width: 70%;
+	position: relative;
+	overflow-y: hidden;
+	border-radius: 10px;
+}
+.program_text {
+	background-color: rgba(0,0,0,0.75);
+	z-index: 1;
+	height: 99%;
+	width: 35%;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	margin-left: 63%;
+	color: rgba(255,255,255,1.00);
+	text-align: center;
+}
+.program_description {
+
+}
+
+
+.program_title {
+	z-index: 1;
+	height: 30%;
+	width: 50%;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	margin-left: 5%;
+	margin-top: 5%;
+	text-align: center;
+	text-shadow: 1px 1px 5px rgba(0,0,0,1.00);
+	color: rgba(255,255,255,1.00);
+}

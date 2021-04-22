@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+.head_background
+{
+	background-color: #3c3c3c;
+	border-radius: 0px 0px 25px 25px;
+}
+
+.nav_text_color
+{
+	font-size: 18px;
+	color: white;
+}
+
+.page_content
+{
+
+	margin-left: 10%;
+	width: 80%;
+
+}
+
+.control_nav
+{
+	display: inline-block;
+	margin-left: 3%;
+	margin-top: 100px;
+	width: auto;
+	vertical-align: top;
+}
+
+.control_nav_item
+{
+	display: inline-block;
+
+}
+
+.control_content
+{
+	display: inline-block;
+	margin-left: 2%;
+	width: 80%;
+}

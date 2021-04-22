@@ -1,0 +1,26 @@
+@charset "utf-8";
+.main_list {
+	margin-left: 15%;
+	width: 70%;
+	display: block;
+}
+.main_text {
+	display: inline-block;
+	width: 50%;
+	font-size: 20px;
+	vertical-align: top;
+	margin-left: 15px;
+	text-indent: 20px;
+}
+
+.main_image {
+	width: 461px;
+	display: inline-block;
+	margin-left: -10%;
+	vertical-align: top;
+	margin-top: 20px;
+
+}
+.main_text_imp {
+	font-size: 24px;
+}

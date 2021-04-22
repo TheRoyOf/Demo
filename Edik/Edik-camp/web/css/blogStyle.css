@@ -1,0 +1,153 @@
+@charset "utf-8";
+.blogContent {
+	width: 65%;
+	display: inline-block;
+
+}
+.bg{
+	background-color: rgba(240,240,240,0.00);
+	border-radius: 10px;
+	border: 1px double rgba(200,200,200,0.70);
+	-webkit-box-shadow: 0px 2px 7px 0px rgba(0,0,0,0.35);
+	box-shadow: 0px 2px 7px 0px rgba(0,0,0,0.35);
+}
+.contentPreview {
+	border-radius: 10px;
+	margin-bottom: 20px;
+
+}
+.NavTextTitle {
+	text-align: center;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.contentImage {
+	width: 96%;
+	margin-left: 2%;
+	margin-right: 0px;
+	margin-top: 2%;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+}
+
+
+.blogNavigation {
+	display: inline-block;
+	width: 20%;
+	vertical-align: top;
+	margin-left: 10px;
+}
+.contentText {
+	margin-bottom: 0px;
+	width: 96%;
+	margin-left: 2%;
+}
+.TextTitle {
+	text-align: center;
+	font-size: 25px;
+}
+.Text {
+}
+
+.blogContent_main {
+	width: 70%;
+}
+.contentImageBlock {
+}
+
+.commentList{
+
+}
+
+
+
+
+
+
+.comment-text{
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+
+.site-blog_page_comment{
+
+	margin-top: 20px;
+	width: 100%;
+
+}
+
+.has-success {
+	color: #3c763d;
+}
+
+
+
+label {
+	display: inline-block;
+	max-width: 100%;
+	margin-bottom: 5px;
+	font-weight: bold;
+}
+
+.help-block {
+	display: block;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	color: #737373;
+}
+
+.form-control {
+	/* display: block; */
+	margin-left: 2%;
+	width: 94%;
+	height: 34px;
+	padding: 6px 12px;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #555;
+	background-color: #fff;
+	background-image: none;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+	box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+	-webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+	-o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+	transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+.btn-primary {
+	color: #fff;
+	background-color: #337ab7;
+	border-color: #2e6da4;
+}
+.btn {
+	display: inline-block;
+	padding: 6px 12px;
+	margin-bottom: 0;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 1.42857143;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	-ms-touch-action: manipulation;
+	touch-action: manipulation;
+	cursor: pointer;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	background-image: none;
+	border: 1px solid transparent;
+	border-radius: 4px;
+}
+.form-group{
+	margin-top: 20px;
+	margin-left: 2%;
+	margin-right: 2%;
+	margin-bottom: 20px;
+}
+
